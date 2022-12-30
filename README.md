@@ -14,5 +14,6 @@ https://www.nostr.net
 
 https://nostr.directory
 
+https://nostr.how/guides/web/desktop
 
 https://astral.ninja# nostr-client-notes
